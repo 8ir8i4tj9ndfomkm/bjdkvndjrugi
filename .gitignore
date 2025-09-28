@@ -1,6 +1,6 @@
 dist
 *classes
-*.class
+config/data/temp/*
 target/
 build/
 build_eclipse/
